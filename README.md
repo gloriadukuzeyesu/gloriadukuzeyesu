@@ -10,14 +10,12 @@
   <li>👯 I am looking to collaborate Software Engineering topics and Deep Learing </li>
   <li>🎸 Fun Fact: I tought myself how to play acoustic guitar</li> 
 </ul
-
-
   
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gloriadukuzeyesu&show_icons=true&theme=tokyonight&count_private=true&hide=prs,issues)
   
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gloriadukuzeyesu&langs_count=8&theme=tokyonight"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=gloriadukuzeyesu&show_icons=true&theme=tokyonight&count_private=true&hide=prs,issues"/>
-
-
 <img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> 
 
 <img  align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
