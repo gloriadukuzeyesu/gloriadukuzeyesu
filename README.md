@@ -1,5 +1,19 @@
 # Hi there 👋
 
+👩‍💻 I am currently studying Master of Software Development at the University of Utah 
+🙌 I am currently learning C++, Java, and Data Structure and Alogarithm
+👩‍💼 I am looking for SDE internships
+👀 I am looking to collaborate with other software engineers
+🎸 Fun Fact: I tought myself how to play acoustic guitar
+ 
+
+
+
+
+
+
+
+
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=gloriadukuzeyesu&show_icons=true&theme=tokyonight" />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gloriadukuzeyesu&layout=compact" />
