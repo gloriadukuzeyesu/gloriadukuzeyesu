@@ -1,10 +1,10 @@
 ## Hi there👋, I am Gloria!💻 
 <ul>
-  <li>👩‍💻 I am currently studying Master of Software Development at the University of Utah</li>
+  <li>👩‍💻 I am currently studying Master of Software Development at the University of Utah </li>
   <li>👩‍ I am currently learning C++, Java, and Data Structure and algorithm</li>
   <li>👩‍💼 I am looking for SDE internships</li>
   <li>👯 I am looking to collaborate Software Engineering topics and Deep Learing </li>
-  <li>🎸 Fun Fact: I tought myself how to play acoustic guitar</li> 
+  <li>🎸 Fun Fact: I tought myself how to play acoustic guitar during lockdown</li> 
 </ul   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gloriadukuzeyesu&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats&langs_count=4)
