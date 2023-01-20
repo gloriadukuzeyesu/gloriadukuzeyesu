@@ -9,7 +9,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gloriadukuzeyesu&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats&langs_count=4)
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gloriadukuzeyesu&show_icons=true&theme=tokyonight&count_private=true&hide=prs,issues)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gloriadukuzeyesu&show_icons=true&theme=tokyonight&count_private=true&hide=prs,issues)
+   -->
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gloriadukuzeyesu&show_icons=true&theme=tokyonight&count_private=true)
   
 <img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> 
 
