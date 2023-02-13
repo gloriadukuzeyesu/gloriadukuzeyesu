@@ -3,7 +3,7 @@
   <li>👩‍💻 I am currently studying Master of Software Development at the University of Utah </li>
   <li>👩‍ I am currently learning C++, Java, and Data Structure and algorithm</li>
   <li>👩‍💼 I am looking for SDE internships</li>
-  <li>👯 I am looking to collaborate Software Engineering topics and Deep Learing </li>
+  <li>👯 I am looking to collaborate Software Engineering topics</li>
   <li>🎸 Fun Fact: I tought myself how to play acoustic guitar during lockdown</li> 
 </ul   
 
