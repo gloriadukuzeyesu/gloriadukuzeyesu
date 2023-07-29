@@ -2,9 +2,8 @@
 <ul>
   <li>👩‍💻 I am currently studying Master of Software Development at the University of Utah </li>
   <li>👩‍💼 I am currently taking operating systems, Networking and Security, and Software Engineering courses</li>
-  <li>👩‍💼 I am looking for SDE internships</li>
+  <li>👩‍💼 I am looking for Full time SDE role</li>
   <li>👯 I am looking to collaborate Software Engineering topics</li>
-  <li>🎸 Fun Fact: I tought myself how to play acoustic guitar</li> 
 </ul   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gloriadukuzeyesu&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats&langs_count=4)
