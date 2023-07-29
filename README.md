@@ -1,7 +1,7 @@
 ## Hi there👋, I am Gloria!💻 
 <ul>
   <li>👩‍💻 I am currently studying Master of Software Development at the University of Utah </li>
-  <li>👩‍💼 I am currently taking operating systems, Networking and Security, and Software Engineering courses</li>
+  <li>👩‍💼 I am currently taking Data Bases Systems and Application and Data Analytics and Visualization courses </li>
   <li>👩‍💼 I am looking for Full time SDE role</li>
   <li>👯 I am looking to collaborate Software Engineering topics</li>
 </ul   
