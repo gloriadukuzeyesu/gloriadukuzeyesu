@@ -1,9 +1,8 @@
 ## Hi there👋, I am Gloria!💻 
 <ul>
-  <li>👩‍💻 I am currently studying Master of Software Development at the University of Utah </li>
-  <li>👩‍💼 I am currently taking Application and System Desing course </li>
+  <li>👩‍💻 I am graduated with a Master of Software Development at the University of Utah </li>
+  <li>👩‍💼 I am a teching assistant in Operating Systems and Computer Architecute class</li>
   <li>👩‍💼 I am looking for Full time SDE role </li>
-  <li>👩‍💼 I am scheduled to graduate  2024</li>
   <li>👯 I am looking to collaborate Software Engineering topics</li>
 </ul   
 
